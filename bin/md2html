@@ -13,4 +13,7 @@ cat ../static/costituzione.css
 echo '</style>'
 echo '</head><body>'
 markdown "$1"
+echo '<script>'
+cat ../static/link_articoli.js
+echo '</script>'
 echo '</body></html>'
