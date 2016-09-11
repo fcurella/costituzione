@@ -14,7 +14,7 @@ author :
   twitter : zacchiro
   feedburner : nil
 
-production_url : http://zacchiro.github.io/costituzione/
+production_url : https://fcurella.github.io/costituzione/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -47,7 +47,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://zacchiro.github.io/costituzione
+  BASE_PATH : https://fcurella.github.io/costituzione
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

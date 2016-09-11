@@ -1,4 +1,4 @@
-document.addEventListener('load', function() {
+document.addEventListener('DOMContentLoaded', function() {
     var wrapHeader = function (header) {
 
         var firstTextNode = header.firstChild;
